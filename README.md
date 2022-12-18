@@ -24,6 +24,6 @@ Rscript --vanilla prune_tr.R <filepath to the origincal phylogenetic tree> <path
 
 ### 3. Model inferences
 
-Run the phylodeep_script.py file from this repository to generate a csv containing all of the phylodeep predicitions. Make sure to set the path_to_tree variable in the script to represent the path to the desired tree at any iteration of the loop.
+Install phylodeep by following the instructions outlined in https://github.com/evolbioinfo/phylodeep. Run the phylodeep_script.py file from this repository to generate a csv containing all of the phylodeep predicitions. Make sure to set the path_to_tree variable in the script to represent the path to the desired tree at any iteration of the loop.
 
 python phylodeep_script.py
