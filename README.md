@@ -2,6 +2,8 @@
 
 ### 1. Data Retrieval
 
+Download any newick formatted geneology for a pathogen undergoing epidemiological processes. The ones used from this project came from the Moldova study Yang et al. 2022's Moldova study (https://doi.org/10.1371/journal.pmed.1003933) and Sobkowaik et al. 2020's Karonga, Malawi study (https://doi.org/10.1099/mgen.0.000361).
+
 ### 2. Create tree cluster
 
 This can be accomplished through:
